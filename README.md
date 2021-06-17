@@ -43,4 +43,4 @@ In order to build the script yourself, you need to have [Node.js and NPM](https:
 
 ## Notes
 
-   This is a work in progress. New issues and pull requests are welcome and encourajed!
+   This is a work in progress. New issues and pull requests are welcome and encouraged!
