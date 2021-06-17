@@ -1,0 +1,12 @@
+{
+  "name": "treegen",
+  "version": "1.0.0",
+  "description": "A simple and easily modifiable script to generate a CSS selector tree from an HTML file.",
+  "main": "script.js",
+  "bin": "script.js",
+  "author": "https://www.github.com/pedrohdjs",
+  "license": "MIT",
+  "dependencies": {
+    "jsdom": "^16.6.0"
+  }
+}
